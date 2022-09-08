@@ -1,16 +1,13 @@
-### Hi there 👋
+## console.log("Hola, soy Gonza!") 👋
 
-<!--
-**gonzadev2022/gonzadev2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Un poco sobre mi...**
 
-Here are some ideas to get you started:
+```javascript
+const gonza = {
+  estudiando: "Licenciatura en Informatica",
+  aprendiendo: ["HTML", "CSS", "JavaScript", "Python", "Git", "SQL"],
+  proyectos: "Desarrollando una pagina web",
+  hobbies: ["escuchar musica", "tomar mate", "programar"]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
